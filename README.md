@@ -8,15 +8,17 @@ This project is for the Coding With Friends Discord group.
 1. Download this repository onto your computer. You will not be using the readme_images folder.
 2. Open up your preferred text editor. I recommend VS Code.
 3. Open all three files: index.html, about.html, style.css
-4. To acheive the Top Navigation. Use a **div class named topnav**.
-5. To aceieve the Home and About. Use a **li** inside a **ul**.
-6. Everything that you do from there will be in a **section**
-7. Use a **table** when you are putting in the product details. 
-8. When you are putting in the product details, you must you a **tr** then **th** then **td**
-    Example of what I mean. This is inside the **table**
+4. You need to set the background to the stucco.png. This will be done in the css file. 
+5. To acheive the Top Navigation. Use a **div class named topnav**.
+6. To aceieve the Home and About. Use a **li** inside a **ul**.
+7. Everything that you do from there will be in a **section**
+8. Use a **table** when you are putting in the product details. 
+9. When you are putting in the product details, you must you a **tr** then **th** then **td**
+
+Example of what I mean. This is inside the **table**
     ![screenshot of art store](readme_image/helper.jpg)
     
-9. If you Get confused on anything look at the photos down below or ping me on Discord. 
+10. If you Get confused on anything look at the photos down below or ping me on Discord. 
 
 ![screenshot of art store](readme_image/art_store.jpg)
 
