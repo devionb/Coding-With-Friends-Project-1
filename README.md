@@ -16,7 +16,8 @@ This project is for the Coding With Friends Discord group.
 9. When you are putting in the product details, you must you a **tr** then **th** then **td**
 
 Example of what I mean. This is inside the **table**
-    ![screenshot of art store](readme_image/helper.jpg)
+
+![screenshot of art store](readme_image/helper.jpg)
     
 10. If you Get confused on anything look at the photos down below or ping me on Discord. 
 
