@@ -10,17 +10,18 @@ This project is for the Coding With Friends Discord group.
 3. Open all three files: index.html, about.html, style.css
 4. You need to set the background to the stucco.png. This will be done in the css file. 
 5. There should be two working links. The home and About page.
-6. To acheive the Top Navigation. Use a **div class named topnav**.
-7. To aceieve the Home and About. Use a **li** inside a **ul**.
-8. Everything that you do from there will be in a **section**
-9. Use a **table** when you are putting in the product details. 
-10. When you are putting in the product details, you must you a **tr** then **th** then **td**
+6. You do not need to use the same colors that I used. 
+7. To acheive the Top Navigation. Use a **div class named topnav**.
+8. To aceieve the Home and About. Use a **li** inside a **ul**.
+9. Everything that you do from there will be in a **section**
+10. Use a **table** when you are putting in the product details. 
+11. When you are putting in the product details, you must you a **tr** then **th** then **td**
 
 Example of what I mean. This is inside the **table**
 
 ![screenshot of art store](readme_image/helper.jpg)
     
-11. If you Get confused on anything look at the photos down below or ping me on Discord. 
+12. If you Get confused on anything look at the photos down below or ping me on Discord. 
 
 ![screenshot of art store](readme_image/art_store.jpg)
 
